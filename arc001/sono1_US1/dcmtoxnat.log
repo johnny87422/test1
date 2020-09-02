@@ -1,0 +1,10 @@
+ session attribute scanner/model has no value
+ session attribute scanner has no value
+ session attribute fields/field has no value
+ session attribute operator has no value
+ scan 1 attribute startTime: DICOM attribute org.nrg.dcm.FixedDicomAttributeIndex@80050(0008,0031) has bad value (); unable to derive attribute(s) [startTime]
+ scan 1 attribute scanner/model has no value
+ scan 1 attribute scanner has no value
+ scan 1 attribute series_description has no value
+ 1 attribute voxelRes has no value
+ 1 attribute orientation has no value

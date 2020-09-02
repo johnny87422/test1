@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cat:Catalog ID="1" xmlns:arc="http://nrg.wustl.edu/arc" xmlns:cat="http://nrg.wustl.edu/catalog" xmlns:pipe="http://nrg.wustl.edu/pipe" xmlns:prov="http://www.nbirn.net/prov" xmlns:scr="http://nrg.wustl.edu/scr" xmlns:val="http://nrg.wustl.edu/val" xmlns:wrk="http://nrg.wustl.edu/workflow" xmlns:xdat="http://nrg.wustl.edu/security" xmlns:xnat="http://nrg.wustl.edu/xnat" xmlns:xnat_a="http://nrg.wustl.edu/xnat_assessments" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<cat:metaFields>
+	<cat:metaField name="AUDIT">95:Mon Apr 23 09:50:15 CST 2018=Added:1|95:Mon Apr 23 09:50:14 CST 2018=Added:1</cat:metaField>
+</cat:metaFields>
+<cat:entries>
+	<cat:entry ID="1/XNAT_E00009_1_qc.gif" URI="XNAT_E00009_1_qc.gif" content="ORIGINAL" createdBy="admin" createdEventId="95" createdTime="2018-04-23T09:50:14.945" digest="3e5093dec4122b0b7557b83473c25a22" format="GIF" name="XNAT_E00009_1_qc.gif"/>
+	<cat:entry URI="XNAT_E00009_1_qc_t.gif" content="THUMBNAIL" createdBy="admin" createdEventId="95" createdTime="2018-04-23T09:50:15.016" digest="afba7a4f8c77ba73bc1a02c9ffa9a49c" format="GIF" name="XNAT_E00009_1_qc_t.gif"/>
+</cat:entries>
+</cat:Catalog>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cat:DCMCatalog xmlns:arc="http://nrg.wustl.edu/arc" xmlns:cat="http://nrg.wustl.edu/catalog" xmlns:pipe="http://nrg.wustl.edu/pipe" xmlns:prov="http://www.nbirn.net/prov" xmlns:scr="http://nrg.wustl.edu/scr" xmlns:val="http://nrg.wustl.edu/val" xmlns:wrk="http://nrg.wustl.edu/workflow" xmlns:xdat="http://nrg.wustl.edu/security" xmlns:xnat="http://nrg.wustl.edu/xnat" xmlns:xnat_a="http://nrg.wustl.edu/xnat_assessments" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<cat:metaFields>
+	<cat:metaField name="AUDIT">98:Mon Apr 23 09:53:28 CST 2018=Added:1</cat:metaField>
+</cat:metaFields>
+<cat:entries>
+	<cat:entry ID="null/1.2.840.113680.1.103.51263.1064537806.95818-4-1-q7gp4l.dcm" UID="1.2.276.0.7230010.3.1.4.910351022.10216.1524448307.175" URI="1.2.840.113680.1.103.51263.1064537806.95818-4-1-q7gp4l.dcm" createdBy="admin" createdEventId="98" createdTime="2018-04-23T09:53:28.713" digest="b4878b4549c6509c0f6133e86f8e24b7" format="DICOM" xsi:type="cat:dcmEntry"/>
+</cat:entries>
+</cat:DCMCatalog>

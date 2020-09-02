@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cat:DCMCatalog UID="1.2.840.113680.1.103.51263.1064537806.95818.1" xmlns:arc="http://nrg.wustl.edu/arc" xmlns:cat="http://nrg.wustl.edu/catalog" xmlns:pipe="http://nrg.wustl.edu/pipe" xmlns:prov="http://www.nbirn.net/prov" xmlns:scr="http://nrg.wustl.edu/scr" xmlns:val="http://nrg.wustl.edu/val" xmlns:wrk="http://nrg.wustl.edu/workflow" xmlns:xdat="http://nrg.wustl.edu/security" xmlns:xnat="http://nrg.wustl.edu/xnat" xmlns:xnat_a="http://nrg.wustl.edu/xnat_assessments" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<cat:metaFields>
+	<cat:metaField name="AUDIT">94:Mon Apr 23 09:50:09 CST 2018=Added:2</cat:metaField>
+</cat:metaFields>
+<cat:entries>
+	<cat:entry ID="null/1.2.840.113680.1.103.51263.1064537806.95818-1-1-1zfmi1.dcm" UID="1.2.840.113680.1.103.51263.1064537806.95818.1.1" URI="1.2.840.113680.1.103.51263.1064537806.95818-1-1-1zfmi1.dcm" createdBy="admin" createdEventId="94" createdTime="2018-04-23T09:50:09.302" digest="a32364c60fa1e88872ed6ef54508d3f6" format="DICOM" instanceNumber="1" xsi:type="cat:dcmEntry"/>
+	<cat:entry ID="null/1.2.840.113680.1.103.51263.1064537806.95818-1-19-59hyp0.dcm" UID="1.2.840.113680.1.103.51263.1064537806.95818.1.19" URI="1.2.840.113680.1.103.51263.1064537806.95818-1-19-59hyp0.dcm" createdBy="admin" createdEventId="94" createdTime="2018-04-23T09:50:09.302" digest="b20d2ddf499be79e555c96a160cea5ed" format="DICOM" instanceNumber="19" xsi:type="cat:dcmEntry"/>
+</cat:entries>
+<cat:dimensions x="640" y="480" z="2"/>
+</cat:DCMCatalog>
